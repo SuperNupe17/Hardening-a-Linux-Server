@@ -1,5 +1,5 @@
 # Hardening-a-Linux-Server
-Hardened an Ubuntu Linux server by applying security best practices for SSH, firewall, account policies, and system logging
+Hardened an Ubuntu Linux server by applying security best practices for SSH, firewall, account policies, and system logging. Configured and secured a Linux-based server environment to defend against unauthorized access, privilege escalation, and service exploitation. Implemented best practices in system configuration, network security, and user management to ensure compliance with security baselines and organizational policy.
 Overview:
 This project focused on securing and hardening a Linux (Ubuntu) server to reduce vulnerabilities and protect system integrity. The goal was to apply industry-standard security best practices to strengthen authentication, limit access, and enhance system logging and monitoring.
 
